@@ -1,0 +1,18 @@
+ul{
+    list-style: none;
+    font-size: 20px;
+    color: #000;
+    margin-left: -40px;
+    margin-bottom: 10px;
+}
+li{
+    border-bottom: 1px solid #bfbfbf;
+    background-color: aquamarine;
+    padding: 10px 0px;
+    margin-bottom: 5px;
+}
+span{
+    cursor: pointer;
+    float: right;
+    margin-right: 10px; 
+}

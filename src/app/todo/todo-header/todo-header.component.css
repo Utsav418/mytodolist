@@ -1,0 +1,10 @@
+.main{
+    widows: 500px;
+    text-align:center;
+    margin:0 auto;
+    background-color: darkred;
+    border-bottom: 0px;
+    margin-top:20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-decoration-color: aliceblue;
+}
